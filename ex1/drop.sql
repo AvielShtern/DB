@@ -1,0 +1,14 @@
+drop table type_of;
+drop table directed;
+drop table acted_in;
+drop table authored;
+drop table rates;
+drop table IMDB ;
+drop table genre;
+drop table oscar_award;
+drop table director;
+drop table author;
+drop table actor;
+drop table movie_person;
+drop table content_rating;
+drop table film;
