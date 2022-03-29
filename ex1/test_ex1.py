@@ -14,7 +14,7 @@ names_of_tables_and_pkey = {
     'director': [11],
     'oscar_award': [14],
     'genre': [7],
-    'IMDB ': [14],
+    'IMDB': [14],
     'rates': [14],
     'authored': [12, 14],
     'acted_in': [13, 14],
@@ -60,7 +60,7 @@ def test_schema(get_data_frames):
     for table_name in NAMES_TO_COLUMNS.keys():
         curr_df = get_data_frames[table_name]
         wanted_columns = [TITLES[i] for i in NAMES_TO_COLUMNS[table_name]]
-        wanted_columns = wanted_columns if table_name != "movie_person" else ["&&".join(wanted_columns)]
+        wanted_columns = wanted_columns if table_name != "movie_person" else ["movie_person"]
         print(f"\nThe schema in table: {table_name}")
         curr_df.printSchema()
         assert list(curr_df.columns) == wanted_columns, f"wanted schema: {wanted_columns}, got {list(curr_df.colunms)}"
@@ -89,7 +89,7 @@ def test_unique_key(get_data_frames):
     for table_name in NAMES_TO_COLUMNS.keys():
         curr_df = get_data_frames[table_name]
         pkey = [TITLES[j] for j in names_of_tables_and_pkey[table_name]]
-        pkey = pkey if table_name != "movie_person" else ["&&".join(pkey)]
+        pkey = pkey if table_name != "movie_person" else ["movie_person"]
         duplicate_df = curr_df.groupBy(pkey).count().filter("count != 1")
         assert duplicate_df.count() == 0, duplicate_df.show()
 
