@@ -1,4 +1,4 @@
-select name, yesr
+select name, year
 from authors natural join conferences
 where institution = 'Hebrew University of Jerusalem' and subarea 'vision'
 intersect
