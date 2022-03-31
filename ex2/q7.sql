@@ -1,7 +1,7 @@
 select year, name
 from authors
 except
-select year, name
+select A1.year, A1.name
 from authors A1, authors A2
 where A1.institution = 'Hebrew University of Jerusalem' and
       A2.institution = 'Hebrew University of Jerusalem'
