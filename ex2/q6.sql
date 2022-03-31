@@ -6,4 +6,5 @@ where not exists (select conference
                   except
                   select A2.conference
                   from authors A2
-                  where A1.name = A2.name);
+                  where A1.name = A2.name)
+order by name;
