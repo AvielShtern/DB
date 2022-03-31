@@ -1,6 +1,6 @@
 select year, name
 from authors
-where institution = 'Hebrew University of Jerusalem' and conference = 'focs' and (A1.year >= 2000 and A1.year <= 2020)
+where institution = 'Hebrew University of Jerusalem' and conference = 'focs' and (year >= 2000 and year <= 2020)
 except
 select A1.year, A1.name
 from authors A1, authors A2
