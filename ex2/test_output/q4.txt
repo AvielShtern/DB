@@ -1,0 +1,29 @@
+       name       | year 
+------------------+------
+ Amnon Shashua    | 2002
+ Amnon Shashua    | 2004
+ Amnon Shashua    | 2005
+ Amnon Shashua    | 2006
+ Amnon Shashua    | 2016
+ Daphna Weinshall | 1990
+ Daphna Weinshall | 1998
+ Daphna Weinshall | 2003
+ Daphna Weinshall | 2004
+ Daphna Weinshall | 2005
+ Daphna Weinshall | 2007
+ Michael Werman   | 2013
+ Naftali Tishby   | 1993
+ Yair Weiss       | 1996
+ Yair Weiss       | 1997
+ Yair Weiss       | 1999
+ Yair Weiss       | 2001
+ Yair Weiss       | 2003
+ Yair Weiss       | 2005
+ Yair Weiss       | 2006
+ Yair Weiss       | 2008
+ Yair Weiss       | 2009
+ Yair Weiss       | 2012
+ Yedid Hoshen     | 2018
+ Yedid Hoshen     | 2019
+(25 rows)
+

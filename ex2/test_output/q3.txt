@@ -1,0 +1,14 @@
+            institution             |          name          
+------------------------------------+------------------------
+ Bar-Ilan University                | Yoav Goldberg
+ Ben-Gurion University of the Negev | Ronen I. Brafman
+ Hebrew University of Jerusalem     | Amit Daniely
+ Hebrew University of Jerusalem     | Amnon Shashua
+ Hebrew University of Jerusalem     | Jeffrey S. Rosenschein
+ Hebrew University of Jerusalem     | Yehoshua Sagiv
+ Technion                           | Moshe Tennenholtz
+ Technion                           | Tomer Michaeli
+ Tel Aviv University                | Jonathan Berant
+ Tel Aviv University                | Lior Wolf
+(10 rows)
+
