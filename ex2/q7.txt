@@ -1,0 +1,40 @@
+ year |        name        
+------+--------------------
+ 2000 | Yuval Rabani
+ 2001 | Yuval Rabani
+ 2002 | Alex Samorodnitsky
+ 2002 | Guy Kindler
+ 2002 | Noam Nisan
+ 2003 | Dorit Aharonov
+ 2003 | Noam Nisan
+ 2004 | Dorit Aharonov
+ 2005 | Guy Kindler
+ 2006 | Michael Ben-Or
+ 2006 | Yuval Rabani
+ 2007 | Dorit Aharonov
+ 2007 | Gil Segev 0001
+ 2008 | Michael Ben-Or
+ 2008 | Noam Nisan
+ 2009 | Alex Samorodnitsky
+ 2010 | Gil Segev 0001
+ 2010 | Guy Kindler
+ 2011 | Dorit Aharonov
+ 2013 | Gil Segev 0001
+ 2013 | Ilan Komargodski
+ 2013 | Omri Weinstein
+ 2013 | Yair Bartal
+ 2013 | Yuval Rabani
+ 2014 | Alex Samorodnitsky
+ 2014 | Dorit Aharonov
+ 2014 | Ilan Komargodski
+ 2014 | Katrina Ligett
+ 2015 | Gil Segev 0001
+ 2015 | Noam Nisan
+ 2015 | Omri Weinstein
+ 2016 | Omri Weinstein
+ 2017 | Ilan Komargodski
+ 2019 | Dorit Aharonov
+ 2019 | Nathan Linial
+ 2020 | Omri Weinstein
+(36 rows)
+

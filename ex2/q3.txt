@@ -1,0 +1,89 @@
+             institution              |          name          
+--------------------------------------+------------------------
+ Australian National University       | Hongdong Li
+ Australian National University       | Richard I. Hartley
+ Bar-Ilan University                  | Yoav Goldberg
+ Ben-Gurion University of the Negev   | Ronen I. Brafman
+ Birkbeck University of London        | Hubie Chen
+ Chinese Academy of Sciences          | Tieniu Tan
+ Chinese University of Hong Kong      | Dahua Lin
+ Chinese University of Hong Kong      | Jeffrey Xu Yu
+ Chinese University of Hong Kong      | Jiaya Jia
+ Chinese University of Hong Kong      | Xiaogang Wang 0001
+ Cyprus University of Technology      | Sotirios Chatzis
+ Ecole Normale Superieure             | Francis R. Bach
+ Ecole Normale Superieure             | Jean Ponce
+ EPFL                                 | Pascal Fua
+ ETH Zurich                           | Luc Van Gool
+ ETH Zurich                           | Ryan Cotterell
+ Graz University of Technology        | Horst Bischof
+ Hebrew University of Jerusalem       | Amit Daniely
+ Hebrew University of Jerusalem       | Amnon Shashua
+ Hebrew University of Jerusalem       | Jeffrey S. Rosenschein
+ Hebrew University of Jerusalem       | Yehoshua Sagiv
+ HKUST                                | Lei Chen 0002
+ HKUST                                | Qiang Yang 0001
+ HKUST                                | Qifeng Chen
+ HKUST                                | Tong Zhang 0001
+ Imperial College London              | Stefanos Zafeiriou
+ IST Austria                          | Christoph H. Lampert
+ KAIST                                | Jinwoo Shin
+ KAIST                                | Sung Ju Hwang
+ LMU Munich                           | Hinrich Schütze
+ Max Planck Society                   | Bernhard Schölkopf
+ Max Planck Society                   | Bernt Schiele
+ Max Planck Society                   | Michael J. Black
+ Nanjing University                   | Lijun Zhang 0005
+ Nanjing University                   | Zhi-Hua Zhou
+ Nanyang Technological University     | Jianfei Cai 0001
+ Nanyang Technological University     | Shafiq R. Joty
+ National University of Singapore     | Gim Hee Lee
+ National University of Singapore     | Tsuhan Chen
+ National University of Singapore     | Warut Suksompong
+ NWPU                                 | Feiping Nie 0001
+ NWPU                                 | Junwei Han
+ NWPU                                 | Xuelong Li
+ Peking University                    | Song-Chun Zhu
+ Peking University                    | Xiaojun Wan 0001
+ Peking University                    | Yuxin Peng
+ Radboud University                   | Tom Heskes
+ Sapienza University of Rome          | Roberto Navigli
+ Seoul National University            | Kyoung Mu Lee
+ Simon Fraser University              | James P. Delgrande
+ Sun Yat-sen University               | Wei-Shi Zheng
+ Sun Yat-sen University               | Xiaodan Liang
+ SUSTech                              | Ke Tang
+ SUTD                                 | Wei Lu 0011
+ Technion                             | Moshe Tennenholtz
+ Technion                             | Tomer Michaeli
+ Tel Aviv University                  | Jonathan Berant
+ Tel Aviv University                  | Lior Wolf
+ The Hong Kong Polytechnic University | Lei Zhang 0006
+ Tokyo Institute of Technology        | Sumio Watanabe
+ Tsinghua University                  | Wenwu Zhu 0001
+ TU Dresden                           | Franz Baader
+ TU Munich                            | Daniel Cremers
+ University College London            | Anthony Hunter
+ University College London            | David Barber
+ University College London            | John Shawe-Taylor
+ University of Adelaide               | Anton van den Hengel
+ University of Amsterdam              | Max Welling
+ University of British Columbia       | Holger H. Hoos
+ University of Copenhagen             | Anders Søgaard
+ University of Edinburgh              | Ivan Titov
+ University of Edinburgh              | Mirella Lapata
+ University of Melbourne              | Trevor Cohn
+ University of Oxford                 | Edith Elkind
+ University of Oxford                 | Shimon Whiteson
+ University of Sydney                 | Dacheng Tao
+ University of Technology Sydney      | Yi Yang 0001
+ University of Waterloo               | Olga Veksler
+ University of Waterloo               | Yaoliang Yu
+ University of York                   | Edwin R. Hancock
+ University of Zurich                 | Rico Sennrich
+ UNSW                                 | Michael Thielscher
+ VU Amsterdam                         | Jan Treur
+ Westlake University                  | Yue Zhang 0004
+ Zhejiang University                  | Chunhua Shen
+(85 rows)
+
