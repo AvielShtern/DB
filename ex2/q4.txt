@@ -1,6 +1,0 @@
-     name     | year 
---------------+------
- Shmuel Peleg | 2016
- Yedid Hoshen | 2016
-(2 rows)
-
