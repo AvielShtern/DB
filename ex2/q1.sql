@@ -1,4 +1,4 @@
 select distinct name
 from authors
-where institution = 'Hebrew University of Jerusalem'
+where institution = ''
 order by name;
