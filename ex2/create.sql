@@ -19,3 +19,5 @@ create table institutions(
   region varchar(20) not null,
   country varchar(2) not null
 );
+
+COPY conferences FROM '/Users/avielshtern/Desktop/semester_b/DATABASE/EX/db_ex/ex2/conferences.csv' DELIMITER ',' CSV HEADER;
