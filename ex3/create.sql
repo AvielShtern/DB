@@ -19,3 +19,7 @@ create table institutions(
   region varchar(20) not null,
   country varchar(2) not null
 );
+
+copy authors from '/Users/avielshtern/Desktop/semester_b/DATABASE/EX/db_ex/ex3/generated-author-info.csv' delimiter ',' csv header;
+copy conferences from '/Users/avielshtern/Desktop/semester_b/DATABASE/EX/db_ex/ex3/conferences.csv' delimiter ',' csv header;
+copy institutions from '/Users/avielshtern/Desktop/semester_b/DATABASE/EX/db_ex/ex3/country-info.csv' delimiter ',' csv header;
