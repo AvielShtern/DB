@@ -1,4 +1,4 @@
-select region, count(*) / count(distinct country) as insAvg
+select region, (cast(count(*) as float) / cast(count(distinct country) as float)) as insAvg
 from institutions
 group by region
 order by region;
