@@ -1,4 +1,4 @@
-create index try1 on authors(year) include(adjustedcount);
+create index try1 on authors(year, adjustedcount desc);
 explain analyse
 select distinct *
 from authors a1
