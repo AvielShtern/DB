@@ -1,7 +1,7 @@
-select distinct T.TranscationNo as TranscationNo, T.ProductNo as ProductName
+select distinct T.TransactionNo as TransactionNo, T.ProductNo as ProductNo
 from sales T, sales S
-where (T.TranscationNo = S.TranscationNo and T.Date != S.Date) or
-      (T.TranscationNo = S.TranscationNo and T.CustomerNo != S.CustomerNo) or
+where (T.TransactionNo = S.TransactionNo and T.date != S.date) or
+      (T.TransactionNo = S.TransactionNo and T.CustomerNo != S.CustomerNo) or
       (T.ProductNo = S.ProductNo and T.ProductName != S.ProductName) or
-      (T.CustomerNo = S.CustomerNo and T.Country != S.Country)
-order by T.TranscationNo, T.ProductNo
+      (T.CustomerNo = S.CustomerNo and T.country != S.country)
+order by TransactionNo ProductNo
