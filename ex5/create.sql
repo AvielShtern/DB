@@ -4,6 +4,7 @@ create table sales(
     ProductNo varchar,
     ProductName varchar,
     Price varchar,
+    Quantity varchar
     CustomerNo varchar,
     Country varchar
 )
