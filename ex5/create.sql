@@ -7,4 +7,4 @@ create table sales(
     Quantity varchar
     CustomerNo varchar,
     Country varchar
-)
+);
